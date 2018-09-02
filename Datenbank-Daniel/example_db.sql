@@ -1,4 +1,4 @@
-USE auswertung;
+USE auswertung02;
 
 INSERT INTO verein (bezeichnung, bezeichnung_kurz, landesverband) VALUES ('WSC Lippstadt', 'lippstadt', 'NRW');
 INSERT INTO verein (bezeichnung, bezeichnung_kurz, landesverband) VALUES ('KV Schwerte', 'schwerte', 'NRW');
